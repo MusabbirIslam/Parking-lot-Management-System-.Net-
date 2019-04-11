@@ -1,0 +1,35 @@
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\bin\Debug\ParkinfDatabase.mdf
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\bin\Debug\ParkinfDatabase_log.ldf
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\bin\Debug\Parking.Core.dll
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\bin\Debug\Parking.Core.pdb
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\bin\Debug\Parking.Data.dll
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\bin\Debug\Parking.Entity.dll
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\bin\Debug\Parking.Data.pdb
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\bin\Debug\Parking.Entity.pdb
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\obj\Debug\Parking.Core.csprojResolveAssemblyReference.cache
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\obj\Debug\Parking.Core.dll
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Core\obj\Debug\Parking.Core.pdb
+E:\study\Parking\Parking.Core\bin\Debug\ParkinfDatabase.mdf
+E:\study\Parking\Parking.Core\bin\Debug\ParkinfDatabase_log.ldf
+E:\study\Parking\Parking.Core\bin\Debug\Parking.Core.dll
+E:\study\Parking\Parking.Core\bin\Debug\Parking.Core.pdb
+E:\study\Parking\Parking.Core\bin\Debug\Parking.Data.dll
+E:\study\Parking\Parking.Core\bin\Debug\Parking.Entity.dll
+E:\study\Parking\Parking.Core\bin\Debug\BarcodeLib.dll
+E:\study\Parking\Parking.Core\bin\Debug\Parking.Data.pdb
+E:\study\Parking\Parking.Core\bin\Debug\Parking.Entity.pdb
+E:\study\Parking\Parking.Core\obj\Debug\Parking.Core.csprojResolveAssemblyReference.cache
+E:\study\Parking\Parking.Core\obj\Debug\Parking.Core.dll
+E:\study\Parking\Parking.Core\obj\Debug\Parking.Core.pdb
+E:\study\PROJECT\Parking\Parking.Core\bin\Debug\ParkinfDatabase.mdf
+E:\study\PROJECT\Parking\Parking.Core\bin\Debug\ParkinfDatabase_log.ldf
+E:\study\PROJECT\Parking\Parking.Core\bin\Debug\Parking.Core.dll
+E:\study\PROJECT\Parking\Parking.Core\bin\Debug\Parking.Core.pdb
+E:\study\PROJECT\Parking\Parking.Core\bin\Debug\Parking.Data.dll
+E:\study\PROJECT\Parking\Parking.Core\bin\Debug\Parking.Entity.dll
+E:\study\PROJECT\Parking\Parking.Core\bin\Debug\BarcodeLib.dll
+E:\study\PROJECT\Parking\Parking.Core\bin\Debug\Parking.Data.pdb
+E:\study\PROJECT\Parking\Parking.Core\bin\Debug\Parking.Entity.pdb
+E:\study\PROJECT\Parking\Parking.Core\obj\Debug\Parking.Core.csprojResolveAssemblyReference.cache
+E:\study\PROJECT\Parking\Parking.Core\obj\Debug\Parking.Core.dll
+E:\study\PROJECT\Parking\Parking.Core\obj\Debug\Parking.Core.pdb

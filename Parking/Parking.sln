@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking", "Parking\Parking.csproj", "{6D5E8215-E17D-48C5-9C0E-CD04FCB34E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking.Core", "Parking.Core\Parking.Core.csproj", "{A757796F-E6C0-402E-A7AD-FF47524CFBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking.Data", "Parking.Data\Parking.Data.csproj", "{1E73053A-E265-43C9-914D-A1971525E9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking.Entity", "Parking.Entity\Parking.Entity.csproj", "{11E899CD-1F74-4C01-BB09-4E94D42C4AAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D5E8215-E17D-48C5-9C0E-CD04FCB34E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5E8215-E17D-48C5-9C0E-CD04FCB34E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5E8215-E17D-48C5-9C0E-CD04FCB34E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5E8215-E17D-48C5-9C0E-CD04FCB34E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A757796F-E6C0-402E-A7AD-FF47524CFBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A757796F-E6C0-402E-A7AD-FF47524CFBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A757796F-E6C0-402E-A7AD-FF47524CFBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A757796F-E6C0-402E-A7AD-FF47524CFBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E73053A-E265-43C9-914D-A1971525E9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E73053A-E265-43C9-914D-A1971525E9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E73053A-E265-43C9-914D-A1971525E9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E73053A-E265-43C9-914D-A1971525E9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E899CD-1F74-4C01-BB09-4E94D42C4AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E899CD-1F74-4C01-BB09-4E94D42C4AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E899CD-1F74-4C01-BB09-4E94D42C4AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E899CD-1F74-4C01-BB09-4E94D42C4AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

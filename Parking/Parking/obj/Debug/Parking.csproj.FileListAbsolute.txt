@@ -1,0 +1,56 @@
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\ParkinfDatabase.mdf
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\ParkinfDatabase_log.ldf
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.Core.dll
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.Entity.dll
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.Data.dll
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.Core.pdb
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.Entity.pdb
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.Data.pdb
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.csprojResolveAssemblyReference.cache
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.MainScreen.resources
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.pdb
+E:\study\Parking\Parking\bin\Debug\Parking.exe.config
+E:\study\Parking\Parking\bin\Debug\Parking.exe
+E:\study\Parking\Parking\bin\Debug\Parking.pdb
+E:\study\Parking\Parking\bin\Debug\Parking.Core.dll
+E:\study\Parking\Parking\bin\Debug\Parking.Entity.dll
+E:\study\Parking\Parking\bin\Debug\Parking.Data.dll
+E:\study\Parking\Parking\bin\Debug\BarcodeLib.dll
+E:\study\Parking\Parking\bin\Debug\Parking.Core.pdb
+E:\study\Parking\Parking\bin\Debug\Parking.Entity.pdb
+E:\study\Parking\Parking\bin\Debug\Parking.Data.pdb
+E:\study\Parking\Parking\obj\Debug\Parking.csprojResolveAssemblyReference.cache
+E:\study\Parking\Parking\obj\Debug\Parking.MainScreen.resources
+E:\study\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+E:\study\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+E:\study\Parking\Parking\obj\Debug\Parking.exe
+E:\study\Parking\Parking\obj\Debug\Parking.pdb
+E:\study\Parking\Parking\obj\Debug\Parking.Admin.resources
+E:\study\PROJECT\Parking\Parking\bin\Debug\Parking.exe.config
+E:\study\PROJECT\Parking\Parking\obj\Debug\Parking.exe
+E:\study\PROJECT\Parking\Parking\obj\Debug\Parking.pdb
+E:\study\PROJECT\Parking\Parking\bin\Debug\ParkinfDatabase.mdf
+E:\study\PROJECT\Parking\Parking\bin\Debug\ParkinfDatabase_log.ldf
+E:\study\PROJECT\Parking\Parking\bin\Debug\Parking.exe
+E:\study\PROJECT\Parking\Parking\bin\Debug\Parking.pdb
+E:\study\PROJECT\Parking\Parking\bin\Debug\Parking.Core.dll
+E:\study\PROJECT\Parking\Parking\bin\Debug\Parking.Entity.dll
+E:\study\PROJECT\Parking\Parking\bin\Debug\Parking.Data.dll
+E:\study\PROJECT\Parking\Parking\bin\Debug\BarcodeLib.dll
+E:\study\PROJECT\Parking\Parking\bin\Debug\Parking.Core.pdb
+E:\study\PROJECT\Parking\Parking\bin\Debug\Parking.Entity.pdb
+E:\study\PROJECT\Parking\Parking\bin\Debug\Parking.Data.pdb
+E:\study\PROJECT\Parking\Parking\obj\Debug\Parking.csprojResolveAssemblyReference.cache
+E:\study\PROJECT\Parking\Parking\obj\Debug\Parking.Admin.resources
+E:\study\PROJECT\Parking\Parking\obj\Debug\Parking.MainScreen.resources
+E:\study\PROJECT\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+E:\study\PROJECT\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+E:\study\PROJECT\C#\Parking\Parking\bin\Debug\Parking.exe.config
+E:\study\PROJECT\C#\Parking\Parking\obj\Debug\Parking.exe
+E:\study\PROJECT\C#\Parking\Parking\obj\Debug\Parking.pdb

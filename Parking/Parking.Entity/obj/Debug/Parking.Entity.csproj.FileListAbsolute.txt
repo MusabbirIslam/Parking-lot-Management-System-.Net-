@@ -1,0 +1,14 @@
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Entity\bin\Debug\Parking.Entity.dll
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Entity\bin\Debug\Parking.Entity.pdb
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Entity\obj\Debug\Parking.Entity.dll
+C:\Users\CST\documents\visual studio 2015\Projects\Parking\Parking.Entity\obj\Debug\Parking.Entity.pdb
+E:\study\Parking\Parking.Entity\bin\Debug\Parking.Entity.dll
+E:\study\Parking\Parking.Entity\bin\Debug\Parking.Entity.pdb
+E:\study\Parking\Parking.Entity\obj\Debug\Parking.Entity.dll
+E:\study\Parking\Parking.Entity\obj\Debug\Parking.Entity.pdb
+E:\study\Parking\Parking.Entity\obj\Debug\Parking.Entity.csprojResolveAssemblyReference.cache
+E:\study\PROJECT\Parking\Parking.Entity\bin\Debug\Parking.Entity.dll
+E:\study\PROJECT\Parking\Parking.Entity\bin\Debug\Parking.Entity.pdb
+E:\study\PROJECT\Parking\Parking.Entity\obj\Debug\Parking.Entity.csprojResolveAssemblyReference.cache
+E:\study\PROJECT\Parking\Parking.Entity\obj\Debug\Parking.Entity.dll
+E:\study\PROJECT\Parking\Parking.Entity\obj\Debug\Parking.Entity.pdb
